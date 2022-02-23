@@ -1,0 +1,39 @@
+2022-02-23 10:15:29 INFO-List created from text file
+2022-02-23 10:15:29 INFO-List created from text file
+2022-02-23 10:15:29 INFO-List created from text file
+2022-02-23 10:15:29 INFO-List created from text file
+2022-02-23 10:15:29 INFO-List created from text file
+2022-02-23 10:15:51 INFO-Word count from list is generated
+2022-02-23 10:16:15 INFO-count of all the word starting with same alphabet is generated
+2022-02-23 10:17:30 INFO-Data is cleaned
+2022-02-23 10:19:23 INFO-count of all the word starting with same alphabet is generated
+2022-02-23 10:20:35 INFO-count of all the word starting with same alphabet is generated
+2022-02-23 10:20:35 ERROR-name 'alplist' is not defined
+2022-02-23 10:22:02 INFO-Counter({'s': 742, 'c': 666, 'p': 525, 'a': 492, 'r': 461, 'd': 448, 'b': 368, 'm': 344, 'f': 333, 't': 323, 'e': 294, 'i': 269, 'l': 257, 'h': 246, 'w': 205, 'g': 195, 'o': 175, 'n': 139, 'u': 105, 'v': 96, 'j': 89, 'k': 70, 'q': 30, 'y': 26, 'z': 8})
+2022-02-23 10:22:30 INFO-count of all the word starting with same alphabet is generated
+2022-02-23 10:23:28 INFO-Database created
+2022-02-23 10:24:39 INFO-Table created
+2022-02-23 10:24:39 ERROR-name 'tupleset' is not defined
+2022-02-23 10:24:59 INFO-Database created
+2022-02-23 10:25:00 INFO-Table created
+2022-02-23 10:25:00 INFO-Values inserted in table
+2022-02-23 10:41:03 ERROR-[Errno 22] Invalid argument: 'Enter a file: '
+2022-02-23 10:41:12 ERROR-[Errno 22] Invalid argument: 'Enter a file: '
+2022-02-23 10:41:36 INFO-List created from text file
+2022-02-23 10:41:36 INFO-List created from text file
+2022-02-23 10:41:36 INFO-List created from text file
+2022-02-23 10:41:36 INFO-List created from text file
+2022-02-23 10:41:36 INFO-List created from text file
+2022-02-23 11:21:37 INFO-List created from text file
+2022-02-23 11:21:37 INFO-List created from text file
+2022-02-23 11:21:37 INFO-List created from text file
+2022-02-23 11:21:37 INFO-List created from text file
+2022-02-23 11:21:37 INFO-List created from text file
+2022-02-23 11:27:41 INFO-Word count from list is generated
+2022-02-23 11:29:52 ERROR-name 'fil' is not defined
+2022-02-23 11:30:05 INFO-Word count from list is generated
+2022-02-23 11:30:41 INFO-count of all the word starting with same alphabet is generated
+2022-02-23 11:30:53 ERROR-name 'alplist' is not defined
+2022-02-23 11:31:02 INFO-count of all the word starting with same alphabet is generated
+2022-02-23 11:32:41 INFO-Count of all the word starting with same alphabet is generated
+2022-02-23 11:35:37 INFO-Data is cleaned
